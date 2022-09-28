@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/corbinlazarone/sase-workshop/static/css/main.073c9b0a.css",
-    "main.js": "/corbinlazarone/sase-workshop/static/js/main.e674f583.js",
-    "static/js/787.28cb0dcd.chunk.js": "/corbinlazarone/sase-workshop/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/corbinlazarone/sase-workshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/corbinlazarone/sase-workshop/index.html",
-    "main.073c9b0a.css.map": "/corbinlazarone/sase-workshop/static/css/main.073c9b0a.css.map",
-    "main.e674f583.js.map": "/corbinlazarone/sase-workshop/static/js/main.e674f583.js.map",
-    "787.28cb0dcd.chunk.js.map": "/corbinlazarone/sase-workshop/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/sase-workshop/static/css/main.073c9b0a.css",
+    "main.js": "/sase-workshop/static/js/main.1bc760d4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sase-workshop/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/sase-workshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sase-workshop/index.html",
+    "main.073c9b0a.css.map": "/sase-workshop/static/css/main.073c9b0a.css.map",
+    "main.1bc760d4.js.map": "/sase-workshop/static/js/main.1bc760d4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sase-workshop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e674f583.js"
+    "static/js/main.1bc760d4.js"
   ]
 }
